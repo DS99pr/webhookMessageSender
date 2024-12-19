@@ -1,7 +1,8 @@
+# punctuactionReplacer Copyright (c) 2024, Pard. All rights reserved.
+
 import discord
 import aiohttp
 import flet as ft
-
 
 
 def main(page: ft.Page):
